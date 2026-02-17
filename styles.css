@@ -32,7 +32,7 @@ Fonts:
 
 /* Body */
 body {
-    font-family: 'Proxima Nova';
+    font-family: 'Avenir', 'Proxima Nova', Arial, sans-serif;
     background-color: #f7f7f7;
 }
 
