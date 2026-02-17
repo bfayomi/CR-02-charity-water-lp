@@ -23,17 +23,13 @@ Fonts:
   This CSS uses the provided color palette and beginner-friendly styles.
 */
 
-/* Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 /* Body */
 body {
     font-family: 'Avenir', 'Proxima Nova', Arial, sans-serif;
     background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    color: #222;
 }
 
 /* =========================
